@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ResellerBD</string>
+    <string name="enter_player_id">Enter Player ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="helpline">Helpline: 01950010051 (WhatsApp / IMO)</string>
+    <string name="english_button">English</string>
+    <string name="bangla_button">বাংলা</string>
+    <string name="quick_load">Quick Load</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="have_an_account">Have an Account?</string>
+</resources>
